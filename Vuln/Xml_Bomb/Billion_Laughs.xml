@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE keyz [
+  <!ENTITY key "key">
+  <!ENTITY key2 "&key;&key;&key;&key;&key;&key;&key;&key;&key;&key;">
+  <!ENTITY key3 "&key2;&key2;&key2;&key2;&key2;&key2;&key2;&key2;&key2;&key2;">
+  <!ENTITY key4 "&key3;&key3;&key3;&key3;&key3;&key3;&key3;&key3;&key3;&key3;">
+  <!ENTITY key5 "&key4;&key4;&key4;&key4;&key4;&key4;&key4;&key4;&key4;&key4;">
+  <!ENTITY key6 "&key5;&key5;&key5;&key5;&key5;&key5;&key5;&key5;&key5;&key5;">
+  <!ENTITY key7 "&key6;&key6;&key6;&key6;&key6;&key6;&key6;&key6;&key6;&key6;">
+  <!ENTITY key8 "&key7;&key7;&key7;&key7;&key7;&key7;&key7;&key7;&key7;&key7;">
+  <!ENTITY key9 "&key8;&key8;&key8;&key8;&key8;&key8;&key8;&key8;&key8;&key8;">
+]>
+<keyz>&key9;</keyz>

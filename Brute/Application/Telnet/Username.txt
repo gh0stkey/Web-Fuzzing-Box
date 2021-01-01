@@ -1,0 +1,5 @@
+admin
+root
+guest
+ftp
+www
