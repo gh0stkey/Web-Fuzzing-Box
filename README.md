@@ -58,6 +58,4 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
     ├── User_Agent.txt [UA头]
     └── Windows_File.txt [Windows文件]
 
-27 directories, 25 files
-
 ```
