@@ -29,6 +29,7 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 │   ├── Jsp_Jspa_Do_Action.txt [Jsp、Jspa、Do、Action后缀文件名字典]
 │   ├── Php.txt [Php后缀文件名字典]
 │   └── Yujian [中国御剑字典]
+
 ├── Vuln [漏洞相关字典]
 │   ├── Api [Api漏洞：绕过403、鉴权绕过]
 │   ├── File_Upload [文件上传漏洞]
