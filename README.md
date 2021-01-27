@@ -56,6 +56,8 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
     ├── Server_Log_Path.txt [服务日志路径]
     ├── Url_Schemes.txt [URL协议类型]
     ├── User_Agent.txt [UA头]
+    ├── Upload_Params.txt [文件上传参数]
+    ├── ViewState_Key.txt [用于ViewState反序列化]
     └── Windows_File.txt [Windows文件]
 
 ```
