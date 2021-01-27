@@ -59,3 +59,7 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
     └── Windows_File.txt [Windows文件]
 
 ```
+
+## 致谢
+
+[远海](https://github.com/yuanhaiGreg): 贡献文件上传参数、ViewState_Key
