@@ -43,7 +43,7 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 │   └── Xss [XSS字典与Payloads]
 
 └── Web [Web测试字典]
-    ├── *nix_Etc_Path [*nix系统的etc路径下的文件]
+    ├── xnix_Etc_Path [*nix系统的etc路径下的文件]
     ├── All_Html_Tag.txt [所有的HTML标签]
     ├── File_Extensions.txt [文件后缀名]
     ├── Http_Methods.txt [HTTP请求方式]
