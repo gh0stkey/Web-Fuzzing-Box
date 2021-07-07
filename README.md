@@ -44,24 +44,18 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 │   └── Xss [XSS字典与Payloads]
 
 └── Web [Web测试字典]
-    ├── xnix_Etc_Path [*nix系统的etc路径下的文件]
-    ├── All_Html_Tag.txt [所有的HTML标签]
-    ├── File_Extensions.txt [文件后缀名]
+    ├── File_Path [一些文件及路径]
+    ├── Funcation_Name.txt [函数名]
+    ├── HTML [HTML相关]
+    ├── Headers [HTTP头]
     ├── Http_Methods.txt [HTTP请求方式]
     ├── Integer_Overflows.txt [整数溢出]
-    ├── Javascript_Filename.txt [Javascript文件名]
+    ├── Javascript_Filename.txt [JavaScript文件名]
     ├── Lcoalhost.txt [本地地址]
-    ├── Linux_File.txt [Linux文件]
-    ├── Parameters [HTTP请求参数]
-    ├── Proc_Path.txt [Proc路径下的文件]
-    ├── Server_Log_Path.txt [服务日志路径]
-    ├── Url_Schemes.txt [URL协议类型]
-    ├── User_Agent.txt [UA头]
-    ├── Upload_Params.txt [文件上传参数]
-    ├── ViewState_Key.txt [用于ViewState反序列化]
-    └── Windows_File.txt [Windows文件]
-
-```
+    ├── Parameters [请求参数]
+    ├── URL [URL相关协议和类型]
+    └── ViewState_Key.txt [用于ViewState反序列化]
+   ```
 
 ## 致谢
 
