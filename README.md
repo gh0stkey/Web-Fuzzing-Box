@@ -6,18 +6,17 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 
 ```shell
 ❯ tree -L 2
-
+.
 ├── Brute [爆破]
 │   ├── Abroad [国外字典]
 │   ├── Application [服务、应用字典]
 │   ├── Basic_401_Login.txt [401认证字典]
 │   ├── Chinese [适用于中国的字典]
-│   ├── Chinese_Hacker_Id.txt [中国黑客ID]
 │   ├── Password [密码字典]
+│   ├── Ports [端口字典]
 │   ├── Security_Product [安全产品]
 │   ├── Subdomain [子域名]
-│   ├── Test_Chinese_Mobilephonenumber.txt [中国手机号测试字典]
-│   ├── Top [Top排名字典]
+│   ├── Top_Password [Top排名字典]
 │   └── Username [用户名字典]
 
 ├── Dir [目录、文件名、接口]
@@ -55,7 +54,7 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
     ├── Parameters [请求参数]
     ├── URL [URL相关协议和类型]
     └── ViewState_Key.txt [用于ViewState反序列化]
-   ```
+```
 
 ## 致谢
 
