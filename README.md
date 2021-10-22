@@ -21,13 +21,11 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 
 ├── Dir [目录、文件名、接口]
 │   ├── Api.txt [接口字典]
-│   ├── Aspx_Asp_Cfm_Svc_Ashx_Asmx.txt [Aspx、Asp、Cfm、Svc、Ashx、Asmx后缀文件名字典]
 │   ├── Burpsuite [适用于BurpSuite的字典，源于：https://gh0st.cn//archives/2020-02-13/1]
 │   ├── Ctf.txt [适用于CTF比赛的字典]
 │   ├── Directories.txt [目录字典]
 │   ├── Jsp_Jspa_Do_Action.txt [Jsp、Jspa、Do、Action后缀文件名字典]
-│   ├── Php.txt [Php后缀文件名字典]
-│   ├── Simple_Backup.txt [简易备份扫描字典]
+│   ├── Wooyun [乌云历史漏洞目录、文件字典]
 │   └── Yujian [中国御剑字典]
 
 ├── Vuln [漏洞相关字典]
