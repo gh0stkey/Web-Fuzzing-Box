@@ -31,6 +31,7 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 ├── Vuln [漏洞相关字典]
 │   ├── Api_Bypass [Api漏洞：绕过403、鉴权绕过]
 │   ├── File_Upload [文件上传漏洞]
+│   ├── Logic [逻辑漏洞]
 │   ├── File_Include [文件包含字典]
 │   ├── Image_Dos [图片资源导致的DoS拒绝服务漏洞字典]
 │   ├── Jsonp [JSONP跨域劫持漏洞字典]
