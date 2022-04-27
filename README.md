@@ -29,7 +29,7 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 │   └── Yujian [中国御剑字典]
 
 ├── Vuln [漏洞相关字典]
-│   ├── Api [Api漏洞：绕过403、鉴权绕过]
+│   ├── Api_Bypass [Api漏洞：绕过403、鉴权绕过]
 │   ├── File_Upload [文件上传漏洞]
 │   ├── File_Include [文件包含字典]
 │   ├── Image_Dos [图片资源导致的DoS拒绝服务漏洞字典]
@@ -39,6 +39,9 @@ Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱�
 │   ├── Traversal_Directory [遍历目录漏洞字典]
 │   ├── Xml_Bomb [XML炸弹Payloads]
 │   └── Xss [XSS字典与Payloads]
+
+├── Other [其他字典]
+│   └── 2W_Words_1.txt [2万常见英语单词]
 
 └── Web [Web测试字典]
     ├── File_Path [一些文件及路径]
