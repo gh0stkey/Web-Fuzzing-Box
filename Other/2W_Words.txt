@@ -113,7 +113,6 @@ acceleration
 accelerator
 accent
 accentuate
-accentuate加速
 accept
 acceptability
 acceptable
@@ -164,7 +163,6 @@ acculturation
 accumbent
 accumulate
 accumulated
-accumulate积累
 accumulation
 accuracy
 accurate
@@ -1206,7 +1204,6 @@ arteritis
 artery
 artful
 artfully
-artful巧
 arthritic
 arthritis
 artichoke
@@ -1923,7 +1920,6 @@ bewilderment
 beyond
 beyondi
 biannual
-biannual一年两次的
 bias
 biased
 bibber
@@ -1947,7 +1943,6 @@ bidder
 bidding
 bide
 biennial
-biennial两年一次的
 bifurcate
 big
 big-city
@@ -1965,7 +1960,6 @@ bilabial
 bilateral
 bile
 bilingual
-bilingual双语种的
 bill
 billboard
 billiards
@@ -2027,7 +2021,7 @@ bitter
 bitterly
 bitterness
 bittersweet
-biweekly双周刊
+biweekly
 biz
 bizarre
 black
@@ -5115,7 +5109,7 @@ derogatory
 desalinate
 desalination
 desalinize
-desalt除去盐分
+desalt
 descant
 descend
 descendant
@@ -6861,7 +6855,7 @@ existence
 existential
 existing
 exit
-exocentric离心的
+exocentric
 exodus
 exogamy
 exonerate
@@ -10330,7 +10324,7 @@ irritated
 irritating
 irritation
 irrupt
-irruption闯入
+irruption
 islam
 islamic
 islamism
@@ -19567,7 +19561,7 @@ transmission
 transmit
 transmitted
 transmitter
-transmogrify变得古怪，变形
+transmogrify
 transmute
 transnational
 transnormal
