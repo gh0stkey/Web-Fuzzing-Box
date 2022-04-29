@@ -1,8 +1,6 @@
 backto
 backurl
 callback
-cgi-bin/redirect.cgi
-cgi-bin/redirect.cgi?
 checkout
 checkout_url
 continue
@@ -30,7 +28,6 @@ Lmage_url
 load_file
 load_url
 login
-login?to
 login_url
 logout
 navigation
