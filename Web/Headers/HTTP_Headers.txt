@@ -1096,8 +1096,8 @@ x-requested-with
 referer
 host
 alt-used
-x-original-url~/%s
-x-rewrite-url~/%s
+x-original-url
+x-rewrite-url
 command
 __requesturi
 __requestverb
