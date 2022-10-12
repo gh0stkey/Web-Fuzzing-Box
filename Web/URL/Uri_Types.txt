@@ -146,3 +146,4 @@ xri:
 ymsgr:
 z39.50r:
 z39.50s:
+weixin:
