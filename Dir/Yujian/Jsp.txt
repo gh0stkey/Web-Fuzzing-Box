@@ -6390,11 +6390,6 @@ cpu.jsp.jsp
 crab.jsp
 crabb.jsp
 crack.jsp
-crack8
-Crack8_Team
-Crack8_编程小组
-Crack8Team
-Crack8编程小组
 cracker.jsp
 cradle.jsp
 craft.jsp
@@ -10624,8 +10619,6 @@ justify.jsp
 justly.jsp
 juvenile.jsp
 k.jsp
-K8team
-K8拉登哥哥
 ka.jsp
 kai.jsp
 kal007.jsp

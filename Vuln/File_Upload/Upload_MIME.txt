@@ -1,0 +1,8 @@
+application/x-jsp
+application/x-aspx
+application/x-httpd-php
+application/x-ms-aspx
+text/asp
+text/html
+text/x-php
+application/xml
