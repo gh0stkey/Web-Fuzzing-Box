@@ -2,7 +2,12 @@
 
 Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...
 
-字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1
+字典运用于实战案例：
+https://gh0st.cn/archives/2019-11-11/1
+https://gh0st.cn/archives/2018-07-25/1
+
+参数、目录、文件名等相关数据部分来源于CaA项目：
+https://github.com/gh0stkey/CaA
 
 ```shell
 ❯ tree -L 2
