@@ -16,7 +16,7 @@ https://github.com/gh0stkey/CaA
 │   ├── Chinese_Hacker_Id.txt [黑客ID字典]
 │   ├── Application [服务、应用字典]
 │   ├── Basic_401_Login.txt [401认证字典]
-│   ├── Name [姓名拼音字典]
+│   ├── Full_Name [姓名拼音字典]
 │   ├── Password [密码字典]
 │   ├── Ports [端口字典]
 │   ├── Security_Product [安全产品]
