@@ -24,8 +24,6 @@ msg
 message
 user
 mine
-0
-1
 admin
 alert
 alter
