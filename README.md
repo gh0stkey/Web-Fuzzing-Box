@@ -57,7 +57,7 @@ https://github.com/gh0stkey/CaA
     ├── Integer_Overflows.txt [整数溢出]
     ├── Javascript_Filename.txt [JavaScript文件名]
     ├── Lcoalhost.txt [本地地址]
-    ├── Parameters [请求参数]
+    ├── Dict [动名词字典、请求参数类]
     ├── URL [URL相关协议和类型]
     └── ViewState_Key.txt [用于ViewState反序列化]
 ```
