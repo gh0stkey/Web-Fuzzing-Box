@@ -15,7 +15,6 @@ https://github.com/gh0stkey/CaA
 ❯ tree -L 2
 .
 ├── Brute [Brute Force]
-│   ├── Chinese_Hacker_Id.txt [Hacker ID Dictionary]
 │   ├── Application [Service & Application Dictionary]
 │   ├── Basic_401_Login.txt [401 Authentication Dictionary]
 │   ├── Full_Name [Name Pinyin Dictionary]

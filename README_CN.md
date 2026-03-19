@@ -15,7 +15,6 @@ https://github.com/gh0stkey/CaA
 ❯ tree -L 2
 .
 ├── Brute [爆破]
-│   ├── Chinese_Hacker_Id.txt [黑客ID字典]
 │   ├── Application [服务、应用字典]
 │   ├── Basic_401_Login.txt [401认证字典]
 │   ├── Full_Name [姓名拼音字典]
