@@ -1,67 +1,69 @@
 # Web-Fuzzing-Box
 
-Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...
+[English](README.md) | [中文](README_CN.md)
 
-字典运用于实战案例：
+Web Fuzzing Box - A collection of web fuzzing dictionaries and payloads, including: brute force attacks, directory and file enumeration, web vulnerabilities...
+
+Real-world case studies using these dictionaries:
 https://gh0st.cn/archives/2019-11-11/1
 https://gh0st.cn/archives/2018-07-25/1
 
-参数、目录、文件名等相关数据部分来源于CaA项目：
+Some parameters, directories, filenames and related data are sourced from the CaA project:
 https://github.com/gh0stkey/CaA
 
 ```shell
 ❯ tree -L 2
 .
-├── Brute [爆破]
-│   ├── Chinese_Hacker_Id.txt [黑客ID字典]
-│   ├── Application [服务、应用字典]
-│   ├── Basic_401_Login.txt [401认证字典]
-│   ├── Full_Name [姓名拼音字典]
-│   ├── Password [密码字典]
-│   ├── Ports [端口字典]
-│   ├── Security_Product [安全产品]
-│   ├── Subdomain [子域名]
-│   ├── Top_Password [Top排名字典]
-│   ├── Test_Chinese_Mobilephonenumber.txt [测试手机号字典]
-│   └── Username [用户名字典]
+├── Brute [Brute Force]
+│   ├── Chinese_Hacker_Id.txt [Hacker ID Dictionary]
+│   ├── Application [Service & Application Dictionary]
+│   ├── Basic_401_Login.txt [401 Authentication Dictionary]
+│   ├── Full_Name [Name Pinyin Dictionary]
+│   ├── Password [Password Dictionary]
+│   ├── Ports [Port Dictionary]
+│   ├── Security_Product [Security Products]
+│   ├── Subdomain [Subdomain]
+│   ├── Top_Password [Top Ranked Passwords]
+│   ├── Test_Chinese_Mobilephonenumber.txt [Test Mobile Numbers]
+│   └── Username [Username Dictionary]
 
-├── Dir [目录、文件名、接口]
-│   ├── Others [其他字典]
-│   ├── Burpsuite [适用于BurpSuite的字典]
-│   ├── Wooyun [乌云历史漏洞目录、文件字典]
-│   └── Yujian [中国御剑字典]
+├── Dir [Directory, Filename, API]
+│   ├── Others [Other Dictionaries]
+│   ├── Burpsuite [Dictionaries for BurpSuite]
+│   ├── Wooyun [Wooyun Historical Vulnerability Directories & Files]
+│   └── Yujian [Chinese Yujian Dictionary]
 
-├── Vuln [漏洞相关字典]
-│   ├── Api_Bypass [Api漏洞：绕过403、鉴权绕过]
-│   ├── File_Upload [文件上传漏洞]
-│   ├── Logic [逻辑漏洞]
-│   ├── File_Include [文件包含字典]
-│   ├── Image_Dos [图片资源导致的DoS拒绝服务漏洞字典]
-│   ├── Jsonp [JSONP跨域劫持漏洞字典]
-│   ├── Open_Redirect [URL跳转漏洞字典]
-│   ├── Sql_Injection [SQL注入字典]
-│   ├── Traversal_Directory [遍历目录漏洞字典]
-│   ├── Xml_Bomb [XML炸弹Payloads]
-│   └── Xss [XSS字典与Payloads]
+├── Vuln [Vulnerability Related Dictionaries]
+│   ├── Api_Bypass [API Vulnerabilities: 403 Bypass, Auth Bypass]
+│   ├── File_Upload [File Upload Vulnerabilities]
+│   ├── Logic [Logic Vulnerabilities]
+│   ├── File_Include [File Inclusion Dictionary]
+│   ├── Image_Dos [Image Resource DoS Vulnerability Dictionary]
+│   ├── Jsonp [JSONP Cross-Domain Hijacking Dictionary]
+│   ├── Open_Redirect [URL Redirect Vulnerability Dictionary]
+│   ├── Sql_Injection [SQL Injection Dictionary]
+│   ├── Traversal_Directory [Directory Traversal Vulnerability Dictionary]
+│   ├── Xml_Bomb [XML Bomb Payloads]
+│   └── Xss [XSS Dictionary & Payloads]
 
-├── Other [其他字典]
+├── Other [Other Dictionaries]
 │   ├── 2W_Words.txt
-│   └── 各省市手机号号段
+│   └── Chinese Province Mobile Number Segments
 
-└── Web [Web测试字典]
-    ├── File_Path [一些文件及路径]
-    ├── Funcation_Name.txt [函数名]
-    ├── HTML [HTML相关]
-    ├── Headers [HTTP头]
-    ├── Http_Methods.txt [HTTP请求方式]
-    ├── Integer_Overflows.txt [整数溢出]
-    ├── Javascript_Filename.txt [JavaScript文件名]
-    ├── Lcoalhost.txt [本地地址]
-    ├── Dict [动名词字典、请求参数类]
-    ├── URL [URL相关协议和类型]
-    └── ViewState_Key.txt [用于ViewState反序列化]
+└── Web [Web Testing Dictionary]
+    ├── File_Path [Some Files and Paths]
+    ├── Funcation_Name.txt [Function Names]
+    ├── HTML [HTML Related]
+    ├── Headers [HTTP Headers]
+    ├── Http_Methods.txt [HTTP Request Methods]
+    ├── Integer_Overflows.txt [Integer Overflow]
+    ├── Javascript_Filename.txt [JavaScript Filenames]
+    ├── Lcoalhost.txt [Localhost Addresses]
+    ├── Dict [Verb/Noun Dictionary, Request Parameters]
+    ├── URL [URL Related Protocols and Types]
+    └── ViewState_Key.txt [For ViewState Deserialization]
 ```
 
-## 致谢
+## Acknowledgements
 
-[远海](https://github.com/yuanhaiGreg): 贡献文件上传参数、ViewState_Key
+[yuanhaiGreg](https://github.com/yuanhaiGreg): Contributed file upload parameters, ViewState_Key
