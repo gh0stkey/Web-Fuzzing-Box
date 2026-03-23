@@ -38,6 +38,7 @@ https://github.com/gh0stkey/CaA
 │   ├── Logic [逻辑漏洞]
 │   ├── File_Include [文件包含字典]
 │   ├── Image_Dos [图片资源导致的DoS拒绝服务漏洞字典]
+│   ├── JWT_Attack [JWT攻击字典]
 │   ├── Jsonp [JSONP跨域劫持漏洞字典]
 │   ├── Open_Redirect [URL跳转漏洞字典]
 │   ├── Sql_Injection [SQL注入字典]
@@ -66,3 +67,5 @@ https://github.com/gh0stkey/CaA
 ## 致谢
 
 [远海](https://github.com/yuanhaiGreg): 贡献文件上传参数、ViewState_Key
+
+[wallarm](https://github.com/wallarm/jwt-secrets): 开源的jwt-secrets

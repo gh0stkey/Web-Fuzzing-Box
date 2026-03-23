@@ -38,6 +38,7 @@ https://github.com/gh0stkey/CaA
 │   ├── Logic [Logic Vulnerabilities]
 │   ├── File_Include [File Inclusion Dictionary]
 │   ├── Image_Dos [Image Resource DoS Vulnerability Dictionary]
+│   ├── JWT_Attack [JWT Attack Dictionary]
 │   ├── Jsonp [JSONP Cross-Domain Hijacking Dictionary]
 │   ├── Open_Redirect [URL Redirect Vulnerability Dictionary]
 │   ├── Sql_Injection [SQL Injection Dictionary]
@@ -66,3 +67,5 @@ https://github.com/gh0stkey/CaA
 ## Acknowledgements
 
 [yuanhaiGreg](https://github.com/yuanhaiGreg): Contributed file upload parameters, ViewState_Key
+
+[wallarm](https://github.com/wallarm/jwt-secrets): jwt-secrets author
